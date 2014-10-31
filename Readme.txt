@@ -4,3 +4,4 @@ test branch
 Creating a new branch is quick.
 
 test --no-ff
+test without --no-ff
